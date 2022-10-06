@@ -8,8 +8,7 @@
 <img id="banner" src="banner.jpg">
     <body> 
     body {
-    background: #CCCCCC
-}
+  
         <h1 style="text-align: center">Sobre a Barbearia Alura</h1>
 h1 {
     text-align: center
